@@ -1,2 +1,3 @@
 config:
   server: 7001
+  info: daw
